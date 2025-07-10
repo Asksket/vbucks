@@ -1,0 +1,3 @@
+name: fortnite-agent
+entry: fortnite_ultimate_selenium.py
+description: Automates Apex token purchase and V-Bucks redemption via Xbox + Epic.
